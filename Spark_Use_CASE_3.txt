@@ -1,0 +1,9 @@
+Real-Time Project—Insurance
+
+Analyze health reports across years for the US market
+
+A US-based insurance provider has decided to launch a new medical insurance program targeting various customers. 
+To help a customer understand the current realities and the market better, you have to perform a series of data analytics tasks using Hadoop. 
+The customer has provided pointers to the data set you can use. The following are the goals for the project:
+ Calculate the average number of people in percentage terms, aged between 18 and 64, who have obtained insurance from private players for the period 2001 to 2011.
+ Calculate the average number of people in percentage terms, aged 65 years or more, who are covered solely by public insurance for the period 2001 to 2011.
